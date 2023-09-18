@@ -1,0 +1,30 @@
+#catatan{
+  color: red;
+  background-color: lightblue;
+}
+#link1{
+  color: black;
+  font-size: 25px;
+  background-color: lightblue;
+  border-style: solid;
+}
+h1{
+  text-align: center;
+  background-color: lightblue;
+  border-style: solid;
+}
+
+ul{
+  background-color: lightblue;
+  text-align: left;
+  border-style: solid;
+}
+
+p{
+  border-style: solid;
+  background-color: lightblue;
+}
+#botomm{
+ /*border-style: solid;*/
+  background-color: lightblue;
+}

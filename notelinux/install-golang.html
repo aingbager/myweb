@@ -1,0 +1,26 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title>cara install go</title>
+  </head>
+  <body id="latar">
+    <h2 id="judul">cara install golang</h2>
+    <link rel="stylesheet" href="style/install-golang.css">
+    <ul id="lists">
+      <li>masuk ke web nya <a href="https://go.dev/" target="_blank" id="golang">golang</a></li>
+      <li>download file nya lalu extract</li>
+      <li>pindah kan folder go beserta isinya: <br> <b>sudo mv go /usr/local</b> </li>
+      <li>tambahkan variable berikut:</li>
+      <li>untuk shell bash: sudo nano ~/.bashrc</li>
+    </ul>
+    <div id = "editwarna">
+    <h4>tambahkan parameter berikut:</h4>
+    <p># Go Global variables</p>
+    export GOROOT=/usr/local/go <br>
+    export GOPATH=$HOME/go <br>
+    export PATH=$GOPATH/bin:$GOROOT/bin:$PATH <br>
+    <br>lalu ketik source ~/.bashrc <br>untuk shell zsh: sudo nano ~/.zshrc
+    </div>
+ 
+  </body>
+</html>

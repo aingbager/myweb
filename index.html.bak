@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>web dasar</title>
+  </head>
+  <body>
+    <h2>belajar web dasar</h2>
+    <p>inisal p adalah paragraf,paragraf biasa baris perbaris
+    dan tidak akan digabungkan dengan paragraf lain.</p>
+    <p>dan ini adalah paragraf kedua dengan menggunakan p.</p>
+
+    <!-- bold italic underline-->
+    <h2>bold italic underline</h2>
+    <p><b>ini teks bold</b> dengan tanda b.</p>
+    <p><i>ini teks italic/garis miring</i> dengan tanda i.</p>
+    <p><u>ini teks underline/garis bawah</u> dengan tanda u.</p>
+
+    <!--superscript sub script-->
+    <h2>superscript subscript</h2>
+    <p>ini adalah superscript E-MC<sup>2</sup>.</p>
+    <p>ini adalah subscript CO<sub>2</sub>.</p>
+
+    <!--line break,horizontal rules-->
+    <h2>linebreak,horizontall rules</h2>
+    <p>ini adalah</br>line break,akan break atau enter.</br>yang
+      akan menghasilkan baris baru.</p>
+    <hr><p>hr akan menghasil kan pemisah dengan <b>garis panjang</b></p>
+    <hr>
+    
+    <!--quote dan block quite-->
+    <h2>quote dan block quote</h2>
+    <p><q>ini quote</q> quote adalah tanda petik dengan simbol q.</p>
+    <p><blockquote>ini block quote</blockquote>menambahkan spasi atau alinia dan
+     menambahkan enter.
+    </p>
+  </body>
+</html>

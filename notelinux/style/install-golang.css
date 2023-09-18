@@ -1,0 +1,32 @@
+#latar{
+  background: #2e0142;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+}
+::selection{
+  color: red;
+  background: white;
+}
+
+#judul{
+  color: white;
+  text-transform: uppercase;
+}
+
+h4{
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+#lists{
+  color: white;
+}
+
+#golang{
+  color: #fb63c4;
+}
+
+#editwarna{
+  color: white;
+}
